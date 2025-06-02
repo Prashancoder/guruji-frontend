@@ -67,7 +67,6 @@ const ServiceCard = ({ service }) => {
 
       <div>
       <ServiceCard key={service._id} service={service} />
-      Book Service
       
       </div>
     </div>
